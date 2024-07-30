@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Meu nome é Jennifer Matos
--Estou estudando o  (https://www.alura.com.br)
+-Estou estudando o ALURA (https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
