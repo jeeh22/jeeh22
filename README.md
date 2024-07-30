@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**jeeh22/jeeh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jennifer Matos
+-Estou estudando o  (https://www.alura.com.br)
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Voce pode entrar em contato comigo: mailbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001101426974sp@al.educacao.sp.gov.br
+
+![gif](https://tenor.com/pt-BR/view/kiss-flying-gif-25375711)
+
+
+
+
+
+  
+  
+  
+
+
+
+
